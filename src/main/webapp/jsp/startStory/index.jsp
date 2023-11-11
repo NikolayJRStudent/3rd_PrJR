@@ -81,7 +81,7 @@
 
       <img
         class="scroll"
-        src="https://oir.mobi/uploads/posts/2022-08/1661353810_1-oir-mobi-p-svitok-fon-instagram-1.jpg"
+        src="https://storage.googleapis.com/multi-static-content/previews/artage-io-thumb-f3b63027e1cbd53271f10edb3f9c7a85.png"
         alt="Grapefruit slice atop a pile of other slices"
       />
 
