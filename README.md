@@ -1,3 +1,6 @@
 # 3rd_PrJR
 
-/servletsProject использовать в TomCat как главный сервлет
+Interactive history of writing on serverlets
+
+/servletsProject use in TomCat as main URL
+
